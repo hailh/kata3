@@ -97,4 +97,9 @@ public class BankAccountTest {
     public void getAccountInformationDAOTest() {
         assertTrue(accountDAO.getAccount(accountNumber) != null);
     }
+
+    @Test
+    public void getAccountInformationServiceTest() {
+        assertTrue(service.getAccount(accountNumber) != null);
+    }
 }
