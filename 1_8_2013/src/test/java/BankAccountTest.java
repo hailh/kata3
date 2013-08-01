@@ -92,4 +92,9 @@ public class BankAccountTest {
         BankAccount account = service.open(accountNumber, timestamp);
         assertTrue(account.getBalance() == 0);
     }
+
+    @Test
+    public void getAccountInformationDAOTest() {
+        assertTrue(accountDAO.getAccount(accountNumber) != null);
+    }
 }
