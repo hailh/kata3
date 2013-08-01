@@ -94,12 +94,12 @@ public class BankAccountTest {
     }
 
     @Test
-    public void getAccountInformationDAOTest() {
+    public void getAccountInformationDAOTest() throws SQLException {
         assertTrue(accountDAO.getAccount(accountNumber) != null);
     }
 
     @Test
-    public void getAccountInformationServiceTest() {
+    public void getAccountInformationServiceTest() throws SQLException {
         assertTrue(service.getAccount(accountNumber) != null);
     }
 }
