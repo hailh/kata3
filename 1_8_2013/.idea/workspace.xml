@@ -61,7 +61,7 @@
       <file leaf-file-name="BankAccountTest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/BankAccountTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="91" column="43" selection-start="3147" selection-end="3147" vertical-scroll-proportion="0.8783542">
+            <state line="78" column="88" selection-start="2686" selection-end="2686" vertical-scroll-proportion="0.48300537">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -69,10 +69,19 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="AccountDAOImpl.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/qsoft/dao/impl/AccountDAOImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="30" selection-start="886" selection-end="886" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="AccountServiceImpl.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/qsoft/service/impl/AccountServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="13" selection-start="461" selection-end="461" vertical-scroll-proportion="0.0">
+            <state line="27" column="39" selection-start="765" selection-end="765" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -89,12 +98,13 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/qsoft/model/BankAccount.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/qsoft/dao/impl/AccountDAOImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/qsoft/dao/impl/TransactionDAOImpl.java" />
         <option value="$PROJECT_DIR$/src/test/java/BankAccountDAOTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/BankAccountServiceTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/BankAccountTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qsoft/dao/impl/AccountDAOImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/qsoft/service/impl/AccountServiceImpl.java" />
       </list>
     </option>
   </component>
@@ -603,7 +613,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -704,13 +714,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/qsoft/dao/impl/AccountDAOImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="59" selection-start="492" selection-end="492" vertical-scroll-proportion="0.4257603">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/qsoft/dao/impl/TransactionDAOImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="63" selection-start="554" selection-end="554" vertical-scroll-proportion="0.4257603">
@@ -725,16 +728,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/qsoft/dao/impl/AccountDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="30" selection-start="886" selection-end="886" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/qsoft/service/impl/AccountServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="13" selection-start="461" selection-end="461" vertical-scroll-proportion="0.0">
+        <state line="27" column="39" selection-start="765" selection-end="765" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/BankAccountTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="91" column="43" selection-start="3147" selection-end="3147" vertical-scroll-proportion="0.8783542">
+        <state line="78" column="88" selection-start="2686" selection-end="2686" vertical-scroll-proportion="0.48300537">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
