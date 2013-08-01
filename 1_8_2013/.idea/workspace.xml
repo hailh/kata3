@@ -61,7 +61,7 @@
       <file leaf-file-name="BankAccountTest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/BankAccountTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="82" column="50" selection-start="2775" selection-end="2775" vertical-scroll-proportion="0.57423973">
+            <state line="91" column="43" selection-start="3147" selection-end="3147" vertical-scroll-proportion="0.8783542">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -734,7 +734,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/BankAccountTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="82" column="50" selection-start="2775" selection-end="2775" vertical-scroll-proportion="0.57423973">
+        <state line="91" column="43" selection-start="3147" selection-end="3147" vertical-scroll-proportion="0.8783542">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

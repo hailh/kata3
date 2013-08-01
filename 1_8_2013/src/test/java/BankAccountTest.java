@@ -81,10 +81,15 @@ public class BankAccountTest {
         service.setCalendar(calendar);
     }
 
-
     @Test
     public void openNewAccountWithBalanceEqualToZeroDAOTest() throws SQLException {
         BankAccount account = accountDAO.createAccount(accountNumber, timestamp);
+        assertTrue(account.getBalance() == 0);
+    }
+
+    @Test
+    public void openNewAccountWithBalanceEqualToZeroServiceTest() throws SQLException {
+        BankAccount account = service.open(accountNumber, timestamp);
         assertTrue(account.getBalance() == 0);
     }
 }
